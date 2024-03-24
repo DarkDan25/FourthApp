@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FourthApp</string>
+    <string name="insert_name">Введите имя*</string>
+    <string name="insert_surname">Введите фамилию*</string>
 </resources>
